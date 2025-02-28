@@ -1,0 +1,17 @@
+wxwidgets3.2 (3.2.0+dfsg-2~bpo22.04.1~ppa1) jammy; urgency=medium
+
+  * No-change backport to jammy.
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 12 Sep 2022 23:06:01 +0200
+
+wxwidgets3.2 (3.2.0+dfsg-2) unstable; urgency=medium
+
+  * Use indep overrides for docs and examples to fix FTBFS
+
+ -- Scott Talbert <swt@techie.net>  Thu, 08 Sep 2022 17:50:15 -0400
+
+wxwidgets3.2 (3.2.0+dfsg-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #919903)
+
+ -- Scott Talbert <swt@techie.net>  Fri, 22 Jul 2022 21:46:52 -0400
